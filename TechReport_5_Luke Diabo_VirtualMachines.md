@@ -19,5 +19,5 @@ Vms do have some drawbacks though such as:
 
 ## Here is a link on 2 articles, decribing what Virtual Machines are:
 
-https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-virtual-machine
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-virtual-machine<br/>
 https://www.vmware.com/topics/virtual-machine
