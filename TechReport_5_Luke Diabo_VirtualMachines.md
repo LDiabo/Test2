@@ -17,7 +17,7 @@ Vms do have some drawbacks though such as:
 - Running multiple virtual machines on one physical machine can result in unstable performance if requirements are not met.
 - Virtual machines are less efficient and run slower than a full physical computer. Most OS verisons use a combination of physical and virtual infrastructure to balance advantages and disadvantages.
 
-## Here is a link on a 2 articles decribing what Virtual Machines are:
+## Here is a link on 2 articles, decribing what Virtual Machines are:
 
 https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-virtual-machine
 https://www.vmware.com/topics/virtual-machine
